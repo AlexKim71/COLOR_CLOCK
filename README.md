@@ -5,4 +5,11 @@
  clock here --> https://alexkim71.github.io/COLOR_CLOCK/
 
 description:
-The background of the clock will change depending on the digits.
+Color Clock is an unusual digital clock that visualizes the passage of time using color. Instead of traditionally displaying numbers, it changes the color of the screen in real time, turning the countdown into a smooth gradient transition.
+
+🔹 How does it work?
+Each moment of time is encoded by color. For example, in the RGB system, a clock can use:
+
+Hours - red (R)
+Minutes - green (G)
+Seconds - blue (B)
