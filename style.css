@@ -1,0 +1,20 @@
+.main {
+  text-align: center;
+  margin-top: 38vh;
+}
+
+#clock { 
+  color:  #000000;
+  font-weight: bold;
+  text-align: center;
+  font-family: 'sans-serif'; 
+}
+#color {
+  color: #000000;
+  font-weight: bold;
+  text-align: center;
+  font-family: 'sans-serif;';
+  font-size: 30px;
+}
+
+#clock { font-size: 80px; };
